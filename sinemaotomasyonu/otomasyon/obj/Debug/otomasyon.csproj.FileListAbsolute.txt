@@ -1,0 +1,27 @@
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.biletsatis.resources
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.filmekleme.resources
+c:\users\dk\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.secim.resources
+C:\Users\Asus-\Desktop\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\Asus-\Desktop\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\Asus-\Desktop\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.biletsatis.resources
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.filmekleme.resources
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.form1.resources
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.secim.resources
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\Asus-\Desktop\PROJE-SİNEMA\otomasyon(BUNU AÇ)\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
